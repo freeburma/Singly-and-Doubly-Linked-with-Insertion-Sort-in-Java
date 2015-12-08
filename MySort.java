@@ -2,6 +2,8 @@
  	Project Name 	: Assignment2 - Insertion Sorting with Singly and Doubly Linked List
  	
  	Date 			: 21-Aprl-2015 
+ 	
+ 	To run : java mySort -fb 40000
  */
 
 
